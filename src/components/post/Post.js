@@ -1,4 +1,5 @@
 import { Avatar } from '@mui/material'
+import './Post.css'
 import React from 'react'
 import { FavoriteBorder, Publish, Repeat, VerifiedUser, ChatBubbleOutline } from '@mui/icons-material'
 
